@@ -1,8 +1,7 @@
-### Hi I'm Madhusanka 👋
+### Hi, I'm Madhusanka 👋  
 
-- 🔭 I’m currently working at **MI Synergy Pvt Ltd.**
-- 🌱 I’m currently learning **Machine Learning, IoT.**
-- 💬 Feel free to ask me about **Spring Boot , React.**
-- 📫  You can reach me at **madhusanka.slc@gmail.com.**
-- 😄 Passionate about exploring new endeavors and fostering collaboration between hardware and software.
-
+- 🔭 Currently pursuing my **MPhil**  
+- 🌱 Learning and researching in **Machine Learning** and **IoT**  
+- 💬 Feel free to ask me about **Machine Learning**  
+- 📫 Reach me at: **madhusanka.slc@gmail.com**  
+- 😄 Passionate about exploring new ideas and bridging **hardware with AI** to create meaningful solutions  
